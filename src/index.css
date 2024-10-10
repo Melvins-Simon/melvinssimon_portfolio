@@ -1,7 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
   color-scheme: dark;
+  font-family: "Poppins" sans-serif;
+}
+
+* {
+  @apply duration-200 ease-in;
+}
+.flexCenter {
+  @apply flex justify-center items-center;
+}
+
+.themeIcons {
+  @apply text-xl cursor-pointer hover:text-blue-400 hover:duration-200 hover:ease-in-out;
+}
+
+.contactIcons {
+  @apply h-6 w-6 hover:bg-opacity-80 rounded-md flex justify-center items-center;
+}
+
+::-webkit-scrollbar {
+  @apply rounded-full w-3 bg-white cursor-pointer;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gradient-to-b w-2 from-grape to-blue-600 rounded-full cursor-grabbing;
 }
