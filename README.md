@@ -17,8 +17,9 @@ I am currently pursuing a degree in Information Technology, where I am gaining k
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Web Technologies**: HTML, CSS, React, Node.js
+- **Programming Languages**: Python, JavaScript
+- **Language Frameworks**: ReactJS, NextJs, Tailwind CSS
+- **Web Technologies**: HTML, Vanilla CSS,  Node.js
 - **Databases**: MySQL, MongoDB
 - **Tools & Technologies**: Git, GitHub, Visual Studio Code, Docker
 - **Operating Systems**: Windows, Linux
