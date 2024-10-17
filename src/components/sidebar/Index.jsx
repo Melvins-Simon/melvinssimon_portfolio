@@ -7,7 +7,7 @@ import { GrLinkedin } from "react-icons/gr";
 
 const Sidebar = () => {
   return (
-    <div className="fixed right-0 top-0 bottom-0 my-auto bg-gradient-to-br from-grape to-indigo-600 h-20 w-20 p-1 rounded-l-xl grid grid-cols-3 place-content-center gap-2">
+    <div className="fixed right-0 top-0 bottom-0 my-auto bg-gradient-to-br bgGradient h-20 w-24 p-1 rounded-l-md grid grid-cols-3 place-content-center gap-2">
       <div className="contactIcons hover:bg-slate-900">
         <BsGithub className=" cursor-pointer" />
       </div>

@@ -6,8 +6,11 @@ import Sidebar from "./sidebar/Index";
 import HeroSec from "./hero-sec/Index";
 import ModelContainer from "./modelContainer/Index";
 import SweetLine from "./sweetline/Index";
+import CompModel from "./comp/Index";
+import LoaderCanvas from "./loader/Index";
 
 export {
+  LoaderCanvas,
   SweetLine,
   Layout,
   Footer,
@@ -16,4 +19,5 @@ export {
   Sidebar,
   HeroSec,
   ModelContainer,
+  CompModel,
 };

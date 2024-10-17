@@ -1,2 +1,2 @@
-import { NavLinks } from "./NavLinks";
-export { NavLinks };
+import { NavLinks, connect } from "./NavLinks";
+export { NavLinks, connect };

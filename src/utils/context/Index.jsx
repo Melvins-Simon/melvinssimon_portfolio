@@ -3,12 +3,12 @@ import { createContext, useEffect, useState } from "react";
 export const GlobalContext = createContext(null);
 
 const GlobalState = ({ children }) => {
-  const [flagDarkMode, setflagDarkMode] = useState("");
+  const [darkMode, setdarkMode] = useState("");
   useEffect(() => {
-    setflagDarkMode(true);
+    setdarkMode(true);
   }, []);
   return (
-    <GlobalContext.Provider value={{ flagDarkMode, setflagDarkMode }}>
+    <GlobalContext.Provider value={{ darkMode, setdarkMode }}>
       {children}
     </GlobalContext.Provider>
   );

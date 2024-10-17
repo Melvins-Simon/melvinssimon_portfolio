@@ -1,3 +1,5 @@
+import { gh, ln, wa } from "../assets";
+
 export const NavLinks = [
   {
     id: 1,
@@ -28,5 +30,26 @@ export const NavLinks = [
     id: 6,
     label: "Contact",
     path: "/contact",
+  },
+];
+
+export const connect = [
+  {
+    id: 1,
+    src: ln,
+    to: "#",
+    label: "Linked In",
+  },
+  {
+    id: 2,
+    src: gh,
+    to: "#",
+    label: "Github",
+  },
+  {
+    id: 3,
+    src: wa,
+    to: "#",
+    label: "Whatsapp",
   },
 ];
