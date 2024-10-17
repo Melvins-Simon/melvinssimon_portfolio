@@ -27,7 +27,7 @@ I am currently pursuing a degree in Information Technology, where I am gaining k
 ## Projects
 
 ### 1. [Project Name](link-to-project)
-- **Description**: Briefly describe what the project is about, its purpose, and your role in it.
+- **Description**: Briefly describe what the project is about, its purpose, and My role in it.
 - **Technologies Used**: List the technologies and tools used in the project.
 
 ### 2. [Project Name](link-to-project)
@@ -47,8 +47,8 @@ I am currently pursuing a degree in Information Technology, where I am gaining k
 
 Feel free to reach out to me! 
 
-- **Email**: [your-email@example.com](mailto:melvinssimon@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](link-to-your-linkedin)
-- **GitHub**: [Your GitHub Profile](https://github.com/Melvins-Simon)
+- **Email**: [My-email@example.com](mailto:melvinssimon@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](link-to-My-linkedin)
+- **GitHub**: [My GitHub Profile](https://github.com/Melvins-Simon)
 
 Thank you for visiting my portfolio!
