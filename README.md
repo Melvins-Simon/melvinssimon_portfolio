@@ -47,7 +47,7 @@ I am currently pursuing a degree in Information Technology, where I am gaining k
 
 Feel free to reach out to me! 
 
-- **Email**: [My-email@example.com](mailto:melvinssimon@gmail.com)
+- **Email**: [Mail me](mailto:melvinssimon@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](link-to-My-linkedin)
 - **GitHub**: [My GitHub Profile](https://github.com/Melvins-Simon)
 
