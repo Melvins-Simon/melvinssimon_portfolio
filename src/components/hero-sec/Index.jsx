@@ -1,4 +1,3 @@
-import React from "react";
 import ModelContainer from "../modelContainer/Index";
 import SweetLine from "../sweetline/Index";
 import { Typewriter } from "react-simple-typewriter";
@@ -10,9 +9,14 @@ const HeroSec = () => {
   const MyWords = [
     "ReactJS",
     "NextJS",
+    "ThreeJS",
     "React Native",
     "Tailwind CSS",
+    "ShadCN UI",
+    "ExpressJS",
     "NodeJS",
+    "MongoDB",
+    "UI/UX Design",
   ];
   return (
     <div className="grid grid-cols-2 h-full w-full">
@@ -21,7 +25,7 @@ const HeroSec = () => {
         <div className="pl-8 h-full">
           <div className="w-full flex justify-start">
             <span className="text-4xl font-[800] textGradient">
-              Hi, I'm Melvins Simon,
+              Hi, I&#39;m Melvins Simon,
             </span>
           </div>
           <p className="mt-3 w-[100%]">
@@ -37,24 +41,24 @@ const HeroSec = () => {
 
           <div className="h-[15rem] w-[100%] flex flex-col items-center mt-4 gap-3">
             <div className="h-48 w-48 bg-white rounded-full overflow-hidden">
-              <img src="/melvins.jpeg" />
+              <img src="/melvins.jpeg" alt="Profile Pic" />
             </div>
             <div className="textGradient font-semibold">
-              {/* <Typewriter
+              <Typewriter
                 words={MyWords}
                 loop
                 cursorStyle="_"
                 typeSpeed={100}
                 deleteSpeed={70}
                 delaySpeed={1000}
-              /> */}
+              />
             </div>
           </div>
 
           <div className="flex flex-col gap-3">
             <div className="flex justify-center w-[100%] textGradient dark:text-white-100">
               <span className="font-[800] text-xl ">
-                Let's Connect for tech Trends
+                Let&#39;s Connect for tech Trends
               </span>
             </div>
             <div className=" mt-10 h-fit grid grid-cols-3 gap-4 w-[100%]">
